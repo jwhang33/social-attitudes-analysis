@@ -4,6 +4,7 @@
 This project analyzes a large social survey dataset to examine relationships between demographic characteristics and public opinion using statistical methods.
 
 ## Tools
+- JMP
 - Statistical Modeling
 - Hypothesis Testing
 
